@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "name": "Frontend",
+      "name": "Frontend Using AI",
       "icon": "Monitor",
       "skills": [
         { "name": "React", "level": 90 },
@@ -14,12 +14,27 @@
       "name": "Backend",
       "icon": "Server",
       "skills": [
-        { "name": "Node.js", "level": 85 },
-        { "name": "Java", "level": 80 },
-        { "name": "Spring Boot", "level": 75 },
+        { "name": "Java", "level": 100 },
+        { "name": "Spring Boot", "level": 80 },
+        { "name": "Spring MVC", "level": 80 },
+        { "name": "Hibernate", "level": 100 },
+        { "name": "JPA", "level": 100 },
+        { "name": "REST API", "level": 100 },
+        { "name": "Microservices", "level": 70 }
+      ]
+    },
+     {
+      "name": "Databases",
+      "icon": "Palette",
+      "skills": [
+      
         { "name": "SQL", "level": 80 },
-        { "name": "MongoDB", "level": 75 },
-        { "name": "REST APIs", "level": 90 }
+         { "name": "MySQL", "level": 80 },
+        { "name": "JDBC Connectivity", "level": 90},
+        { "name": "Database Design ", "level": 80 },
+        
+        { "name": "Joins & Subqueries", "level": 90},
+        { "name": "Indexing ", "level": 80 }
       ]
     },
     {
@@ -27,12 +42,14 @@
       "icon": "Wrench",
       "skills": [
         { "name": "Git & GitHub", "level": 90 },
+         { "name": "Maven", "level": 90 },
    
-        { "name": "Spring Boot", "level": 85 },
+        { "name": "Postman", "level": 85 },
         { "name": "intellij", "level": 85 }
     
       ]
     },
+   
     {
       "name": "Design & UX",
       "icon": "Palette",

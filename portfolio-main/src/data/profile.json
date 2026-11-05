@@ -3,12 +3,11 @@
   "title": "Full Stack Developer",
   "tagline": "Building modern web experiences with passion and precision",
   "about": {
-    "description": "I'm a passionate full stack developer with 3+ years of experience creating modern, scalable web applications. I love solving complex problems and turning ideas into reality through clean, efficient code.",
+    "description": "I'm a passionate Java Backend Developer and 2025 B.Tech Information Technology graduate, interested in building scalable, reliable, and efficient backend applications.",
     "highlights": [
-      "3+ years of experience in web development",
-      "Specialized in React, Java and Spring Boot",
-      "Strong focus on user experience and performance",
-      "Passionate about clean code and best practices"
+      "I have hands-on experience with Java, Spring Boot, REST APIs, Hibernate, JPA, and MySQL. I enjoy developing backend systems, designing database structures, and working with microservices architecture.",
+      "I'm also familiar with Git, GitHub, Maven, and Postman, with an interest in learning DevOps tools and cloud technologies",
+      "I continuously improve my programming and problem-solving skills through practical projects and coding challenges. I'm currently looking for an opportunity to start my career as a Java Backend Developer, contribute to real-world projects, and grow as a software engineer."
     ]
   },
   "contact": {
@@ -16,7 +15,7 @@
     "phone": "6381196146",
     "location": "Erode, Tamil Nadu, India",
     "linkedin": "https://linkedin.com/in/graj67",
-    "github": "https://github.com/Gokulraj67",
+    "github": "https://github.com/KaruppanCodes ",
     "website": "https://alexjohnson.dev"
   },
   "availability": {

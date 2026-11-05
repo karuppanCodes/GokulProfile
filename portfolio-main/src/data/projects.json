@@ -37,43 +37,26 @@
         "Push notifications for alerts"
       ]
     },
+  
      {
       "id": 3,
-      "title": "Quotes Blog Site",
-      "description": "Kadhalin Kaadhali is a Tamil quotes-sharing platform where users can explore, share, and express their emotions through words. It serves as a creative space for publishing personal thoughts, life lessons, love notes, poetry, and motivational messages in Tamil.",
-      "longDescription": "Built a comprehensive e-commerce platform that handles everything from product catalog to payment processing. Implemented advanced features like inventory management, order tracking, and analytics dashboard for store owners.",
-      "technologies": ["React", "Supabase", "java", " SQL", "Tailwind CSS"],
-      "category": "Backend",
-      "image": "/Project_Images/Quotes Manager.png",
-      "liveUrl": "https://kadhalinkaadhali.netlify.app/",
-      "githubUrl": "https://github.com/Gokulraj67/kaadhalin_kaadhali",
-      "featured": true,
-      "status": "Completed",
-      "highlights": [
-        "Mobile-responsive design",
-        "Allow user to add their Quotes and delete",
-        "Comprehensive admin dashboard"
-      ]
-    },
-     {
-      "id": 4,
       "title": "E-Commerce Platform",
-      "description": "A full-stack e-commerce solution with React, Node.js, and Stripe integration. Features include user authentication, shopping cart, order management, and admin dashboard.",
-      "longDescription": "Built a comprehensive e-commerce platform that handles everything from product catalog to payment processing. Implemented advanced features like inventory management, order tracking, and analytics dashboard for store owners.",
-      "technologies": ["React", "Node.js", "java", " MongoDb", "Tailwind CSS"],
-      "category": "Full Stack",
-      "image": "",
+      "description": "Developed backend services for product and order management using Java and Spring Boot within an iterative sprint workflow.",
+      "longDescription": "Designed, documented, and tested REST APIs using Postman to retrieve product details and place orders. Integrated services to process product information, handle database operations, and calculate order totals based on quantity and price.",
+      "technologies": ["Java"," Spring Boot", "Microservices"],
+      "category": "Microservices",
+      "image": "/Project_Images/E-Commerce Microservices Architecture Flow.png",
       "liveUrl": "loading...",
       "githubUrl": "loading...",
       "featured": true,
       "status": "Completed",
       "highlights": [
-        "Mobile-responsive design",
-        "Comprehensive admin dashboard"
+        "Managed version control ",
+        " conducted collaborative code reviews utilizing Git and GitHub"
       ]
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "BangaruSamy Event Management - Upcoming",
       "description": "Bangarusamy Event Management is a professional event planning and organizing platform dedicated to delivering memorable experiences. The project focuses on simplifying the process of hosting events such as weddings, corporate functions, cultural programs, and private celebrations.",
       "longDescription": "Built a comprehensive e-commerce platform that handles everything from product catalog to payment processing. Implemented advanced features like inventory management, order tracking, and analytics dashboard for store owners.",
@@ -91,7 +74,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Payroll Management System",
       "description": "Payroll System to handling larger employees database.",
       "longDescription": "It converts larger csv data to the mysql database and handles the payroll of the employees.",
